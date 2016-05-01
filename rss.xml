@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[dharnetttest]]></title>
         <description><![CDATA[dharnetttest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dharnetttest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 16:46:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 16:54:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dharnetttest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
+            <link>https://app.thegrid.io/sites/b741f150-42a2-42fa-8a44-0ef935fe3090</link>
+            <guid isPermaLink="false">836b6a17-f664-4cea-a78d-100e2e978144</guid>
+            <pubDate>Sun, 01 May 2016 16:54:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1954791-e92f-42fb-80e5-4a7ad9833908.jpg">]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/dharnetttest/test/index.html</link>
             <guid isPermaLink="false">41b63003-1e3e-40ed-8c66-79bd33ffa3c4</guid>
             <pubDate>Sun, 01 May 2016 16:45:51 GMT</pubDate>
         </item>
