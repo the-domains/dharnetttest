@@ -1,6 +1,6 @@
 name: dharnetttest
 favicon: null
-layout_spectrum: 0.06612717220559716
+layout_spectrum: 0.51354
 typography_spectrum: 0.3196921197231859
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9728214694187045
+    - '#0d0d0d'
+    - '#f1f1f1'
+    - '#ed6c37'
+    - '#4a4a4a'
+    - '#979797'
+  brandStrength: 1
   lightness: 0.8312967594247311
   saturation: 0.31038542417809367
   rhythmicContrast: 0.3625850572716445
